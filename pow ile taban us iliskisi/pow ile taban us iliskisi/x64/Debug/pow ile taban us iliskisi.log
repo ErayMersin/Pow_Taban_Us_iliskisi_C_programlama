@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+C:\Users\eray\source\repos\pow ile taban us iliskisi\pow ile taban us iliskisi\Kaynak.cpp(15,13): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  pow ile taban us iliskisi.vcxproj -> C:\Users\eray\source\repos\pow ile taban us iliskisi\x64\Debug\pow ile taban us iliskisi.exe
